@@ -8,7 +8,7 @@ sections:
     content: |
       A Cardano Stake Pool
     actions:
-      - label: Get Started
+      - label: Pool Statistics
         url: /docs
         style: primary
   - section_id: features
