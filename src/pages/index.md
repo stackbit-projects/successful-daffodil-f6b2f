@@ -4,7 +4,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: SWELL
-    image: images/5.jpg
     content: |
       A Cardano Stake Pool
     actions:
