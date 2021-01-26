@@ -49,7 +49,7 @@ sections:
         style: secondary
   - section_id: features-two-col
     type: section_grid
-    title: Delegating to Our Pool
+    title: About Me
     subtitle: 'Pool Id: e7b605b72af41d6e8e6894274dedd18114f1759fea500b6d07031535'
     col_number: two
     grid_items:
