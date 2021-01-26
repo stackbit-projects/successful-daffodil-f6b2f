@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: SWELL STAKE POOL
+    title: SWELL POOL
     content: |
       Cardano Stake Pool
     actions:
