@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Articles
 subtitle: Keep up with the latest updates
 image: images/5.jpg
 has_more_link: true
