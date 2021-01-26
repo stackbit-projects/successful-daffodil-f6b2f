@@ -9,7 +9,7 @@ sections:
       A Cardano Stake Pool
     actions:
       - label: Pool Statistics
-        url: /docs
+        url: pooltool.io
         style: primary
   - section_id: features
     type: section_grid
