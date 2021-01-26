@@ -8,7 +8,7 @@ sections:
       Cardano Stake Pool
     actions:
       - label: Pool Profile
-        url: 49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89
+        url: ''
         style: primary
         new_window: true
         no_follow: true
