@@ -45,7 +45,7 @@
             {
                 "label": "Email Us",
                 "url": "mailto:swell-pool@pm.me",
-                "style": "link",
+                "style": "primary",
                 "has_subnav": false
             }
         ]
