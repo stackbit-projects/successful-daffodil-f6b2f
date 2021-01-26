@@ -42,7 +42,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
-    title: Test
+    title: ''
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
