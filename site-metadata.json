@@ -26,7 +26,7 @@
                 "subnav_links": [
                     {
                         "label": "Cardano Block Explorer",
-                        "url": "/overview",
+                        "url": "https://adaex.org/",
                         "style": "link"
                     },
                     {
