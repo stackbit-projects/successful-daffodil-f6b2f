@@ -38,7 +38,7 @@ sections:
     image_position: left
     title: Stay in touch with us
     content: >
-      We would love to here from you and help you grow in the whole new world of
+      We would love to hear from you and help you grow in the whole new world of
       decentralized finance.
     actions:
       - label: Twitter
