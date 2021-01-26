@@ -65,10 +65,9 @@ sections:
     col_number: two
     grid_items:
       - title: Delegating with Adalite
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: >
+          AdaLite is a great web-wallet that supports the Ledger Nano S. In this
+          post we go over how to delegate to our pool using this wallet.
         actions:
           - label: Learn More
             url: /overview
