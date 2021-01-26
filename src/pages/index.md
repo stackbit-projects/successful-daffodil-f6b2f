@@ -50,10 +50,11 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: About Us
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      I have worked as an IT professional in the database administration, system
+      administrator and system support roles in the span of 13 years in the
+      industry. I look to bring this wealth of experience for a smooth sailing
+      approach to stake pool operation.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
