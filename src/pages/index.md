@@ -35,10 +35,9 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: Stay in touch with us
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      We would love to here from you and help you any way we can to help you
+      grow in the whole new world of decentralized finance.
     actions:
       - label: View Demo
         url: /docs/getting-started
