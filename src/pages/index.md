@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: SWELL
     content: |
-      A Cardano Stake Pool
+      Cardano Stake Pool
     actions:
       - label: Pool Statistics
         url: >-
