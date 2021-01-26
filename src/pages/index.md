@@ -42,7 +42,7 @@ sections:
       decentralized finance.
     actions:
       - label: Twitter
-        url: 'https://telegram.com/'
+        url: 'https://telegram.com'
         style: primary
       - label: Telegram
         url: /docs/getting-started
