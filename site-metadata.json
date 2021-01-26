@@ -43,7 +43,7 @@
                 "has_subnav": false
             },
             {
-                "label": "Pool Stats",
+                "label": "Block Explorer",
                 "url": "https://adapools.org/pool/49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89",
                 "style": "primary",
                 "has_subnav": false,
