@@ -42,7 +42,7 @@ sections:
       - label: Twitter
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: Telegram
         url: /docs/getting-started
         style: secondary
   - section_id: text-no-img
