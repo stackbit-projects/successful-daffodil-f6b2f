@@ -25,7 +25,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Overview",
+                        "label": "Cardano Block Explorer",
                         "url": "/overview",
                         "style": "link"
                     },
