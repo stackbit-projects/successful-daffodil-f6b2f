@@ -50,7 +50,7 @@
             },
             {
                 "label": "Email Us",
-                "url": "https://github.com/",
+                "url": "mailto:",
                 "style": "primary",
                 "has_subnav": false
             }
