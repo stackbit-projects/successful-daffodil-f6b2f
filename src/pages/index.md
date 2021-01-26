@@ -20,9 +20,9 @@ sections:
         content: "We take take 0% margin which means more return for you.\_\n\n"
         actions: []
       - title: HIGH SECURITY
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          We keep abreast and implement the latest blockchain industry
+          information security best practices.
         actions: []
       - title: HIGH AVAILABILITY
         content: >-
