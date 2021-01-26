@@ -44,7 +44,7 @@
             },
             {
                 "label": "Email Us",
-                "url": "\"mailto:name@rapidtables.com\" mailto:swell-pool@pm.me",
+                "url": "\"mailto:name@rapidtables.com\" mailto:",
                 "style": "primary",
                 "has_subnav": false,
                 "new_window": true
