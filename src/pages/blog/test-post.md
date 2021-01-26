@@ -6,8 +6,4 @@ thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
 ---
-
-
-
-
 hello@stackbit.com
