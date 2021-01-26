@@ -17,10 +17,7 @@ sections:
     col_number: three
     grid_items:
       - title: LOW FEES
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: "We take take 0% margin which means more return for you.\_\n\n"
         actions: []
       - title: HIGH SECURITY
         content: >-
