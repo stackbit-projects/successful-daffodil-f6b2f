@@ -45,7 +45,7 @@ sections:
         url: 'https://twitter.com/@charliexyz_'
         style: primary
       - label: Telegram
-        url: 'https://telegram.com'
+        url: 'https://t.me/joinchat/Dv0g6pp4470j-iy4'
         style: secondary
   - section_id: text-no-img
     type: section_content
