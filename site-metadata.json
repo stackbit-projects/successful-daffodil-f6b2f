@@ -37,7 +37,7 @@
                 ]
             },
             {
-                "label": "Blog",
+                "label": "Articles",
                 "url": "/blog",
                 "style": "link",
                 "has_subnav": false
