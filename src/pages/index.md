@@ -32,18 +32,6 @@ sections:
           ensuring exceptional uptime and minimal loss of service.
         actions: []
     title: ''
-  - section_id: text-no-img
-    type: section_content
-    title: About Me
-    content: >
-      I have worked as an IT professional in the database administration, system
-      administrator and system support roles in the span of 13 years in the
-      industry. I look to bring this wealth of experience for a smooth sailing
-      approach to stake pool operation.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
@@ -59,6 +47,18 @@ sections:
       - label: Telegram
         url: 'https://t.me/joinchat/Dv0g6pp4470j-iy4'
         style: secondary
+  - section_id: text-no-img
+    type: section_content
+    title: About Me
+    content: >
+      I have worked as an IT professional in the database administration, system
+      administrator and system support roles in the span of 13 years in the
+      industry. I look to bring this wealth of experience for a smooth sailing
+      approach to stake pool operation.
+    actions:
+      - label: Get Started
+        url: /docs/getting-started/installation
+        style: primary
   - section_id: features-two-col
     type: section_grid
     title: Delegating to Our Pool
