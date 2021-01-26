@@ -19,12 +19,6 @@
                 "has_subnav": false
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
                 "label": "Tools",
                 "url": "#",
                 "style": "link",
@@ -41,6 +35,12 @@
                         "style": "link"
                     }
                 ]
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link",
+                "has_subnav": false
             },
             {
                 "label": "Style Guide",
