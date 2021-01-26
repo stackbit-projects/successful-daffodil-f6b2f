@@ -4,7 +4,7 @@
         "title": "SWELL POOL",
         "logo_img": "images/cardano2.png",
         "logo_img_alt": "Libris logo",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
