@@ -25,10 +25,9 @@ sections:
           information security best practices.
         actions: []
       - title: HIGH AVAILABILITY
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Our servers are spread across highly available datacenters in Europe 
+          ensuring exceptional uptime and minimal loss of service.
         actions: []
     title: ''
   - section_id: text-img
