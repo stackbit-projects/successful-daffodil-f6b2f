@@ -45,7 +45,7 @@ sections:
         url: 'https://twitter.com/@charliexyz_'
         style: primary
       - label: Telegram
-        url: /docs/getting-started
+        url: 'https://telegram.com'
         style: secondary
   - section_id: text-no-img
     type: section_content
