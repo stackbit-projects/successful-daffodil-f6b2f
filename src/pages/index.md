@@ -39,7 +39,7 @@ sections:
     title: Stay in touch with us
     content: >
       We would love to hear from you and help you grow in the whole new world of
-      decentralized finance.
+      decentralized finance. You can find us on Twitter and Telegram.
     actions:
       - label: Twitter
         url: 'https://twitter.com/@charliexyz_'
