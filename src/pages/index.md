@@ -72,7 +72,7 @@ sections:
             style: link
   - section_id: text-no-img
     type: section_content
-    title: About Me
+    title: More About Me
     content: >
       I have worked as an IT professional in the database administration, system
       administrator and system support roles in the span of 13 years in the
