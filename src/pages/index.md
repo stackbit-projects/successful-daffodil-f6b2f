@@ -8,8 +8,7 @@ sections:
       Cardano Stake Pool
     actions:
       - label: Pool Profile
-        url: >-
-          49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89https://pooltool.io/pool/654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d/epochs
+        url: 49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89
         style: primary
         new_window: true
         no_follow: true
