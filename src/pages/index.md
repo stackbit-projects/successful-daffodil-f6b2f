@@ -61,7 +61,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Delegating to Us
-    subtitle: An optional subtitle of the section
+    subtitle: 'pool id:'
     col_number: two
     grid_items:
       - title: Delegating with AdaLite
