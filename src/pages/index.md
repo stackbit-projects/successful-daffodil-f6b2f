@@ -7,7 +7,7 @@ sections:
     content: |
       Cardano Stake Pool
     actions:
-      - label: Adapool Profile
+      - label: Pool Profile
         url: >-
           https://adapools.org/pool/49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89
         style: primary
