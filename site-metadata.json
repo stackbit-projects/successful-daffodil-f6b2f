@@ -41,13 +41,6 @@
                 "url": "/blog",
                 "style": "link",
                 "has_subnav": false
-            },
-            {
-                "label": "Pool Tool",
-                "url": "https://pooltool.io/pool/654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d/epochs",
-                "style": "primary",
-                "has_subnav": false,
-                "new_window": true
             }
         ]
     },
