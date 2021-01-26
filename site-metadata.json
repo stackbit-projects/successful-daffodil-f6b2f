@@ -44,7 +44,7 @@
             },
             {
                 "label": "Email Us",
-                "url": "\"mailto:name@rapidtables.com\" mailto:",
+                "url": "\"mailto:name@rapidtables.com\"",
                 "style": "primary",
                 "has_subnav": false,
                 "new_window": true
