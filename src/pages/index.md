@@ -11,6 +11,7 @@ sections:
         url: >-
           https://pooltool.io/pool/654d96593e499e70889eeae16a15ad8682f8349fd1b77726bbbf8a6d/epochs
         style: primary
+        new_window: true
     image: images/5.jpg
   - section_id: features
     type: section_grid
