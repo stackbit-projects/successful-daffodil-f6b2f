@@ -76,8 +76,8 @@ sections:
     content: >
       I have worked as an IT professional in the database administration, system
       administrator and application support roles in the span of 13 years in the
-      industry. I look to bring this wealth of experience for a smooth sailing
-      approach to stake pool operation.
+      industry. I look forward to bringing this wealth of experience for a
+      smooth sailing approach to stake pool operation.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
