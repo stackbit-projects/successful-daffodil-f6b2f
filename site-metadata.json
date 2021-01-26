@@ -50,7 +50,7 @@
             },
             {
                 "label": "Email Us",
-                "url": "mailto:",
+                "url": "mailto:c",
                 "style": "primary",
                 "has_subnav": false
             }
